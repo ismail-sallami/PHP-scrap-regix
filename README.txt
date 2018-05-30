@@ -1,7 +1,6 @@
 ﻿
-About
-__________
-
+cURL and REGEX project
+======================
 
 This code browses HTML content and search for German street address.
 The main techniques used are REGEX and cURL.
